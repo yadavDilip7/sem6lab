@@ -1,0 +1,8 @@
+1.Start the program
+2.read the variables, stack symbols
+3. loop forever:for top-of-stack symbol, s, and next input symbol, a case action of T[s,a] 4. shift x: (x is a STATE number) push a, then x on the top of the stack and advance ip to point to next input
+symbol 5. reduce y: (y is a PRODUCTION number) Assume that the production is of the form A ==> beta
+6. pop 2* | betal symbols of the stack. At this point the top of the stack should be a state number, say s'. push A, then goto of T[s',A] (a state number) on the top of the stack.
+7. Output the production A ==> beta. 8. accept: return -- a successful parse.
+9.default: error -- the input string is not in the language.
+10.Stop the program.
