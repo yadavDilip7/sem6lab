@@ -1,0 +1,8 @@
+Start the program.
+GEt the expression from the user and call the parser() function.
+In the lexer() get the input symbol and match with the look ahead pointer and then return the token accordingly.
+IIn E() check whether the look ahead pointer is "+" of "-" else return syntax error.
+In T() chech wherther the look ahead pointer is "*" of "/"elser return syntax error.
+6.In F(), check whether the look ahead pointer is a member of any identifier. 
+7.In main(), check if the current look ahead points to the token in a given CFG it doesn't match the return
+syntax error.
