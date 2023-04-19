@@ -1,0 +1,7 @@
+1. Include the nessary header files.
+2. Declare the nessary variables with the operators defined before.
+3. Get the input from the user and compare the string for any operators.
+4. Find the precedence of the operator in the expression from the predefined operator.
+5. Set the operator with the maximum precedence accordingly and give the relational operators for 6. Parse the given expression with the operators and values.
+7. Display the parsed expression.
+8. Exit the program.
