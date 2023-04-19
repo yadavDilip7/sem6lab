@@ -1,0 +1,11 @@
+Start
+Initialise value N
+Initialize the count value
+If perform loop unrolling then,
+i.Perform each operation upto count.
+Else,loop rolling
+i.check the condition
+ii.Perform the operation.
+iii.increment the count
+Print the result
+Stop.
