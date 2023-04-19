@@ -1,0 +1,5 @@
+1.Start the program.
+2.Opening the lex compiler and declare the necessary variables.
+3. Write the corresponding patterns and actions in rule section and return to YACC. 4.Save the document with "L" extensions.
+6. In the declaration part, write the production rules as patterns and call YY parser() in the main function to do parsing.compile and build the YACC and output shows in the "execute exe" directly.
+7.End the program.
