@@ -1,0 +1,6 @@
+1.Start the program.
+2.Open the input file.
+3.Enter the intermediate code as an input to the program. 4. Apply conditions for checking the keywords in the intermediate code.
+5.Analze each instruction in switch case.
+6. After generating machine code, copy it to the output file.
+7.Stop the program.
