@@ -1,0 +1,9 @@
+AIM: To implement Token Separation using LEX TOOL.
+Algorithm:
+1.Declare the function yy error which is laid and taking char as input.
+2.For letter given[a-zA-Z], for digit[0-9] and operation op[- + *].
+3. For keyword, it will print it is a keyword.
+4. For character as name, it will print it is an identifier. 5. For operators, it will function as intmain()/ print it is an operator.
+6.Declare the main function as intmain().
+7.In the main function, call the yylex(); function. 8.In the last return(0);
+9.Stop the program.
