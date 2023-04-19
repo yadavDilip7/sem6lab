@@ -1,0 +1,9 @@
+1.Start the program.
+2.Opening the lex compiler and declare the necessary variables. 
+3. Write the corresponding patterns and actions in rule section and return to YACC.
+4.Save the document with "L" extensions and compile LEX.
+ 5.Open YACC compiler, declare the token and associatively the string of the input operators.
+6.In the declaration part, write the production rules as patterns and call YY parser() in the main function for
+parsing.
+7.Save the document with".y" extension and compiler YACC and build teh LEX+YACC and output show on the "execute.exe"directly.
+8.End the program
