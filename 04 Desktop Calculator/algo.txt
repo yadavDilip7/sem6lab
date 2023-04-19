@@ -1,0 +1,7 @@
+1.Uksign the filet oo create LEX and YACC files.
+in the c include section define the header file sequence.
+Declare the reace files inside it in the C definition section declare the header file.
+Required along with a varible valid with value assigned as L
+In the YACC declaration declatre the format token NUM id.
+IN the grammar rules section if the output string is valid Unambiguous the identifier and section the value.
+In the user define seciton if the valid is a string as invalid expression YYerror() and define msin function.
